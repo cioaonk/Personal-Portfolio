@@ -4,7 +4,7 @@ These include my most current resume, certficiates, articles, links to other pla
 
 
 | Title | Type | Context | Source |
-| ----- | ----- | ----- | ------ |
+| ----- | ----- | --------------------------------------------------------------------- | ------ |
 | Resume | File | Most updated Resume as of Upload date| |  
 | LinkedIn | Social media| | |  
 |BYU Cybersecurity Website| Website | Student Profile| [Link](https://cybersecurity.byu.edu/directory/ian-cook) |
