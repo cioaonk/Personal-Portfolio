@@ -18,3 +18,10 @@ These include my most current resume, certficiates, articles, links to other pla
 |||| CSA CTF Group https://cybersecurity.byu.edu/ctf-training |
 |||| CSA NetSec Emphasis https://cybersecurity.byu.edu/network-security |
 |||| NCL Results (upload team and individual) |
+
+
+https://cyberskyline.com/data/power-ranking/spring-2023-advanced
+Need to add:
+NCAE
+End Of year report
+CPTC?
